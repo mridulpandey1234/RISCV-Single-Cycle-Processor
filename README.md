@@ -172,15 +172,7 @@ Through this project, I gained hands-on experience with:
 ## Author
 
 **Mridul Pandey**
-
 B.Tech Electrical Engineering  
 Delhi Technological University (DTU)
-
-Interested in:
-- RTL Design
-- Digital ASIC Design
-- FPGA Design
-- Computer Architecture
-- System-on-Chip (SoC) Design
 
 ---
